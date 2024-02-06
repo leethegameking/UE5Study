@@ -1,9 +1,8 @@
 # Chapter1. Get started
 
 ### Editor viewport
-
+</br>
 **우클릭 드래그**
-
 위아래로 움직일 수 있고 WASD로 모든 방향으로 움직일 수 있다.
 
 **좌클릭 드래그**
